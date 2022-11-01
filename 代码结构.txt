@@ -1,0 +1,8 @@
+//数据在datafountain网站，训练赛通用音频分类，将数据copy到同名文件夹下即可
+train//训练集
+test//测试集
+getlist.py
+soundClassify.py
+submission.scv
+test_list.csv
+train_list.csv
